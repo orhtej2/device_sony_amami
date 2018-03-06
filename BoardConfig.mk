@@ -39,7 +39,7 @@ BOARD_USERDATAIMAGE_PARTITION_SIZE := 12891175936
 # TWRP
 RECOVERY_VARIANT := twrp
 TW_THEME := portrait_hdpi
-TARGET_RECOVERY_FSTAB := device/sony/honami/recovery/root/etc/twrp.fstab
+TARGET_RECOVERY_FSTAB := device/sony/amami/recovery/root/etc/twrp.fstab
 TARGET_RECOVERY_PIXEL_FORMAT := "RGBX_8888"
 BOARD_HAS_NO_SELECT_BUTTON := true
 RECOVERY_GRAPHICS_USE_LINELENGTH := true
